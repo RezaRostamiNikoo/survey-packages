@@ -1,0 +1,108 @@
+parcel.js
+core-js
+mobx			//state management
+lazysizes		//lazyloader for images
+Stimulus		//modest JavaScript framework for the HTML you already have.
+stitches		//css in java (SSR)
+videojs			//video players
+highlightjs		//for show code in the web (hightlighting codes in many languages)
+Lodash			//utility library (working with numbers, arrays, objects and ...)
+Alpinejs		//Your new, lightweight, JavaScript framework
+pollyfill.io	//support differing browsers by attempting to recreate the missing features with polyfills
+fullpage.js
+axios
+undercore.js
+knockoutjs
+hammerjs		//touch gesture on elements
+Modernizr		// Modernizr is a JavaScript library that detects the features available in a user's browser.
+
+
+barba.js 		// smooth transition betwwen pages
+highway.js
+
+lottiefiles
+lottie
+
+three.js
+animejs			//
+mojs
+gsap
+popmotion
+spirit
+p5.js
+raphael.js
+pixi.js
+velocity.js
+
+matter.js
+
+rellax js		// parallax library
+
+
+webpack
+babel
+
+backbone.js
+
+nextjs
+nuxtjs
+
+reactjs
+vuejs
+
+vuetify			//UI library
+
+
+fancybox / fancyapps
+
+
+gatsby.js
+create.js
+tween.js
+
+
+
+
+
+
+
+
+D3.js
+
+
+
+
+locomotive-scroll
+
+
+requirejs		// module loader in browser
+
+
+reveal.js		// html presentation framework like powerpoint on the web
+slide.com
+
+
+skrollr.js
+
+snap.svg
+
+
+spin.js
+
+
+
+
+pug
+handlebars
+
+
+
+
+// bundlers
+webpack
+rollup
+browserify
+esbuild
+parcel
+gulp
+grunt
