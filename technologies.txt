@@ -106,3 +106,11 @@ esbuild
 parcel
 gulp
 grunt
+
+
+
+
+// servers
+https://localtunnel.github.io/www/
+https://ngrok.com/
+https://vercel.com/home
